@@ -11,7 +11,7 @@ Stored procedures for payroll calculation.
 Sample dataset included.
 
 # Database Schema
-employees
+employees <br>
 departments
 salary_structure
 attendance
