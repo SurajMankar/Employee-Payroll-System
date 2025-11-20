@@ -10,7 +10,6 @@ Reporting Views (department expenses, monthly payroll summary)
 Stored procedures for payroll calculation
 Sample dataset included
 
-
 # Database Schema
 employees
 departments
@@ -24,6 +23,3 @@ payroll
 3.Run the schema file
 4.Insert sample data
 5.Execute procedures, Functions, Queries
-
-
-
