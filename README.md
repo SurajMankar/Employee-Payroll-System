@@ -1,6 +1,9 @@
 # Employee-Payroll-System
-  This project is a fully functional Employee Payroll System built using PostgreSQL. It demonstrates end-to-end SQL skills such as database design, table creation, constraints, joins, views,      stored procedures, CTEs, functions, and complex payroll calculations.
+  This project is a fully functional Employee Payroll System built using PostgreSQL. It demonstrates end-to-end SQL skills such as database design, table creation, constraints, joins, views,    stored procedures, CTEs, functions, and complex payroll calculations.
 
+# Project ERD
+  /Employee-Payroll-System/ERD.png
+  
 # Key Features
   Salary structure with earnings & deductions <br>
   Attendance & leave tracking <br>
