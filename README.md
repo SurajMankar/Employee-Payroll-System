@@ -2,13 +2,13 @@
 This project is a fully functional Employee Payroll System built using PostgreSQL. It demonstrates end-to-end SQL skills such as database design, table creation, constraints, joins, views, stored procedures, CTEs, functions, and complex payroll calculations.
 
 # Key Features
-Salary structure with earnings & deductions
-Attendance & leave tracking
-Monthly payroll computation (gross, net, taxes)
-Auto-generated payslips
-Reporting Views (department expenses, monthly payroll summary)
-Stored procedures for payroll calculation
-Sample dataset included
+Salary structure with earnings & deductions.
+Attendance & leave tracking.
+Monthly payroll computation (gross, net, taxes).
+Auto-generated payslips.
+Reporting Views (department expenses, monthly payroll summary).
+Stored procedures for payroll calculation.
+Sample dataset included.
 
 # Database Schema
 employees
